@@ -4,7 +4,7 @@
 This is a basic slide show created using javascript. 
 
 
-I used a simple python server as a local host installed on my Mac. I used this because this is a very small project. I does need the massive additions that come with something like node js. I wanted something clean and easy to use.
+I used a simple python server as a local host installed on my Mac. I used this because this is a very small project. I dont need the massive additions that come with something like node js. I wanted something clean and easy to use.
 
 # Installing 
 Open Terminal: 
