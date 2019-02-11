@@ -18,7 +18,7 @@ We then access our local host and direct to where the Html and Image file are st
 You will need to modify the image source path based on where the image folder is saved.
 
 ex:
-file:///Users/emilydaley/Desktop/slideshow/image
+/Desktop/slideshow/google.jpeg
 
 Design: 
 
