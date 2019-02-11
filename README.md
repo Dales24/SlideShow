@@ -8,7 +8,7 @@ I used a simple python server as a local host installed on my Mac. I used this b
 
 Installing 
 Open Terminal: 
-Install Python if it is not already installed
+Install Python 2.7 if it is not already installed
 brew install python
 To connect to our server: 
 python -m SimpleHTTPServer server 
