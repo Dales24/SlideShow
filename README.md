@@ -6,17 +6,17 @@ This is a basic slide show created using javascript.
 
 I used a simple python server as a local host installed on my Mac. I used this because this is a very small project. I does need the massive additions that come with something like node js. I wanted something clean and easy to use.
 
-Installing 
+#Installing 
 Open Terminal: 
 Install Python 2.7 if it is not already installed
-brew install python
+
 To connect to our server: 
 python -m SimpleHTTPServer server 
 
 Go to localhost:8000/slideshow.html 
 
 
-Design and Dev: 
+#Design and Dev: 
 
  I wanted to keep the code as simple as possible. My overall goal for the design was something functional, fast and reusable. It is important that the images are quicly loaded for a good user experience. 
 
@@ -26,7 +26,7 @@ I first create a div structure for each slide applying CSS classes for the text 
 To keep track of mobile swiping I have action eventlisteners for touching the screen. These event listeners then store the x and y coors of the touch into variables. This then allows me to determine wether the swipe came from the left or the right. 
 
 
-Future Consideration: 
+#Future Consideration: 
 
 I would consider creating a json file in the future and looping through images. However, the current amount of data with these images is not very large. But, over time this area might want to be re-evaluated. I also considered loading images from a API, but this would also slow down the site. 
 I would also like to improve the css style in the future. Style is always changing and can always be re-evaluted.
