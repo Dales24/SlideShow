@@ -15,10 +15,6 @@ python -m SimpleHTTPServer server
 
 Go to localhost:8000/slideshow.html 
 
-You will need to modify the image source path based on where the image folder is saved.
-
-ex:
-/Desktop/slideshow/google.jpeg
 
 Design and Dev: 
 
