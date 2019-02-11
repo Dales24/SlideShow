@@ -11,7 +11,7 @@ Open Terminal:
 Install Python 2.7 if it is not already installed
 
 To connect to our server: 
-`python -m SimpleHTTPServer server`
+`python -m SimpleHTTPServer`
 
 Go to localhost:8000/slideshow.html 
 
