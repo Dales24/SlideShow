@@ -13,7 +13,7 @@ brew install python
 To connect to our server: 
 python -m SimpleHTTPServer server 
 
-We then access our local host and direct to where the Html and Image file are store! 
+We then access our local host and direct to where the Html and Image file are stored! 
 
 
 Design: 
