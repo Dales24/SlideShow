@@ -13,7 +13,7 @@ brew install python
 To connect to our server: 
 python -m SimpleHTTPServer server 
 
-We then access our local host and direct to where the HTML and Image file are stored! 
+Go to localhost:8000/slideshow.html 
 
 You will need to modify the image source path based on where the image folder is saved.
 
