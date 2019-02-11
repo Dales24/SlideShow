@@ -17,5 +17,3 @@ This functions hides all of my slides and sets the ones that user are on to visi
 To keep track of mobile swiping I have action eventlisteners for touching the screen. These event listeners then store the x and y 
 coors of the touch into variables. This then allows me to determine wether the swipe came from the left or the right. 
 
-I decided that the scope of the project was small enough where the optimization would not be effected by using a json file. However,
-I did consider storing the images into a json file hierachry and looping through the images to index and display them. 
