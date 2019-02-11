@@ -4,7 +4,17 @@
 This is a basic slide show created using javascript. 
 
 
-I used a Apache2 server as a local host already installed on my Mac.
+I used a simple python server as a local host installed on my Mac.I choose this because this is a very small project. I does need the massive addition that come with something like node js. I wanted something clean and easy to use 
+
+Installing 
+Open Terminal: 
+Install Python if it is not alreay installed
+brew install python
+To connect to our server: 
+python -m SimpleHTTPServer server 
+
+We then access our local host and direct to where the Html and Image file are store! 
+
 
 Design: 
 
